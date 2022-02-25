@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new letter from Leghorn, from aboard the Van-Herring to a merchant in London, fully discovering the present state of that ship</title>
+            <author>J. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62248</idno>
+            <idno type="STC">Wing S76</idno>
+            <idno type="STC">ESTC R8733</idno>
+            <idno type="EEBO-CITATION">11904481</idno>
+            <idno type="OCLC">ocm 11904481</idno>
+            <idno type="VID">50657</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62248)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50657)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 509:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new letter from Leghorn, from aboard the Van-Herring to a merchant in London, fully discovering the present state of that ship</title>
+                  <author>J. S.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Hindmarsh ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signed at end: J.S.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Van Herring (Ship)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:50657:1" rendition="simple:additions"/>
+            <head>A New Letter FROM LEGHORN, From Aboard the VAN-HERRING To a MERCHANT in LONDON, Fully diſcovering the preſent State of that SHIP.</head>
+            <p>SInce my laſt to you, it is almoſt impoſſible to believe what an Alteration there is in the ſtate of our Ship; for ſince the diſſolution of our Council of Officers, all things ſeem to contrive the welfare of the Captain, the Lieutenant being placed in another Ship; though ſome raſh and miſſed Sailers, that belong to our Ship, ſpake unbe<g ref="char:EOLhyphen"/>comingly of him, yet ſince his remove has he behaved himſelf with that Generoſity and Bra<g ref="char:EOLhyphen"/>very, that he hath acquired already the Repute of a moſt excellent Commander; and one who in the eyes of the generality of the Sailers, is fitted with Reſolution, Courage and Policy ſufficient to batter down all that evil Opinion that the Factious Seamen have concei<g ref="char:EOLhyphen"/>ved of him: His noble Acts for the Ships ſafety, where he now Commands, having pro<g ref="char:EOLhyphen"/>cured him a general reſpect, that whenever he has been pleaſed to walk out of his Great Cabbin, (as there ſo) in all the ſmaller Cabbins he has been entertained with ſuch Volleys of Joy and Reſpect, which could proceed from no other hearts than what were really tied to him in Loyalty and Affection: The Ship where he Commands being in a moſt thriving Poſture ever ſince ſhe has been under his Conduct; his Counſel, as it were, putting a new face upon things, and all matters conſpiring with his Merits, to raiſe him from thoſe Clouds of miſapprehenſions his Virtues had laboured under. And now, like the Sun, he begins to ſhine with greater Splendor: That plaiſter and dirt which Envy and Malice did ſo plentifully throw upon him, now are waſhed off; ſo that every Sailer perceives how he has been miſled; and no doubt but the greater and better part of the Ships-company do blame themſelves for ſo raſh a conjecture as once they entertained of him. This digreſſion ſhould not have prevented my purſuit of my former deſign, had not I been deſirous of your being undeceived by ſome advice you had in one of my former Letters, that it was ſuſpected the Lieutenant was a <hi>Mahometan;</hi> and truly many of our Ships-Crew did give it out ſo to be: but to the joy of our Company, and of all good Sailers, we have Let<g ref="char:EOLhyphen"/>ters that inform us, that by a certain Teſt and Sacred Banquet, that is uſually taken Aboard to diſcriminate a <hi>Mahometan</hi> from a <hi>Chriſtian,</hi> he hath made it apparent to the
+<pb n="2" facs="tcp:50657:2"/>whole World, that he is a Man ſound in his Faith, and firm in his Reſolution, which was always ſo great as would not ſuffer to be Catechized by the Inquiſitive Sailers. Now ha<g ref="char:EOLhyphen"/>ving made a repair of my former Error, I ſhall proceed to give you the beſt Account I can of the ſtate of our own Ship: For after the diſcharge of the Council of Officers, who not<g ref="char:EOLhyphen"/>withſtanding they were the moſt choice men the Ship did afford, and who always were had in great Veneration by the Sailers; yet under ſome heats, did do thoſe things that the Cap<g ref="char:EOLhyphen"/>tain could not bear withal, neither we<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e their Actions ſo pleaſing to the Ships-Company, as could render them free from blame: for when they accord with the Captain, it renders our Ship the moſt conſiderable Veſſel in <hi>Europe;</hi> and 'tis obſervable, that when the Cap<g ref="char:EOLhyphen"/>tain and the Officers correſpond, our Ship has increaſed in wealth, and abounded with the braveſt Sailers in the World, inſomuch that our proſperity has been envied and malign'd by all our Neighbours. But the <hi>Mahometans</hi> of one part have ever been reſtleſs, to unlink the chain of Love, that ever was deſired by the Captain to be preſerved irrefragable: So have they by Plots and ſtratagems endeavoured the confuſion of the Captain; they paying a Re<g ref="char:EOLhyphen"/>ligious Allegiance to another Commander, and deeming it part of their duty to propagate their Sect by any action, the cruelty or horridneſs thereof never affrighting them from their deſigns; ſuch inhumanity did they practiſe when they murthered our Boatſwain, who en<g ref="char:EOLhyphen"/>deavoured to check their Villany; and ſince that have they openly Aſſaſſinated one of the Captains Officers, that was faithful in putting the Laws of our Ship in force againſt them: But many of theſe Bell-Wethers of miſchief are brought to condign puniſhment, the loſs of their lives being a forfeiture juſtly due for their diſloyalty; ſo reſtleſs are they in malice, they cannot think themſelves wicked enough when living; but even when they are ready to dwindle into another Orb, they profeſs the greateſt innocency conceivable, and that with the ſevereſt Proteſtations, that either Religion or Rhetorick can invent, thinking thereby to amuſe the Ships-Crew, and force them into a charitable opinion of their dying Aſſeverations; this has prevailed upon ſome conſiderable Sailers; but moſt are of opinion their High-Prieſt diſpenſes with them to be Liars even to the laſt gaſp: But 'tis hoped when the Captain and his Council of Officers meet next, ſome effectual courſe will be ta<g ref="char:EOLhyphen"/>ken with them, that they that do not conform to the Rules of our Ship, may be put on Board another Veſſel, that they may no more diſturb our deſired repoſe; the moſt excellent Captain having often cauſed Proclamation to be made through the Great Cabbin, that they ſhould not dare to approach his preſence, nor within a certain diſtance of his Cabbin, and withal threatned them with the ſevereſt inflictions the Law would admit; but their boldneſs is too great to be ſo eaſily overcome, extremity it ſelf is little enough to curb their inſolence: but 'twere well our renowned Captain had no other Enemies, for then with more eaſe they might be dealt withal; but theſe <hi>Mahometans,</hi> as is reported, Spawn other Creatures, that go under divers Appellations, that are equally as pernicious to the welfare of the Ship, the <hi>Mahometans</hi> making uſe of them, as the Monkey did of the Cats foot; for though they pretend great Antipathy againſt thoſe they were Brooded by, yet 'tis too too manifeſt they Centre in the ſame concluſion: For as the firſt are cloſe contrivers of Ruine and Devaſtation, and when in Power, the propagators of Bloud, Maſſacre and Rebellion; ſo the other party, their younger Brethren, they forment Jealouſies, nouriſh and foſter evil Opinions of the Captain and the Government, though a more excellent Commander, or better Diſcipline in Spiritual and Civil adminiſtration no Ship in <hi>Europe</hi> can pretend to; and this humour is ſo natural to theſe Factors of Diviſion, that 'tis almoſt the ſole Artifice they have to maintain their Poſt, and in this they are mighty induſtrious and indefatigable: for if any Office of Truſt or Profit happens to fall in the Great Cabbin, where they have power to Elect, they are ſure to chuſe one of their own Colour, one that ſhall be as obedi<g ref="char:EOLhyphen"/>ent to their Whiſpers, as a Child ought to be to the commands of his Father. And for the better effecting their deſigns, ſome that make a great buſtle in the Ship are firm to their In<g ref="char:EOLhyphen"/>tereſt: Some being deſigned for Counſel and Conduct, and others appointed to put their Commands in Execution; neither are thoſe of a lower Rank leſs valued by the Factioniſts, for their great Zeal for the Cauſe: for at a common Aſſembly in the Great Cabbin, the other day many thanked our Captains Bailiffs for their mighty Service, that would not agree the Captain ſhould be celebrated for his moſt auſpicious Government; theſe Men, though their Principles are not ſo Bloudy, are of a more Moroſe converſation than the <hi>Ma<g ref="char:EOLhyphen"/>hometans;</hi> yet have they that profound reverence for their Party, that they will never be<g ref="char:EOLhyphen"/>lieve any of them to be naught, till they are put in the Bilboes, and then they leave their Candidates, as 'tis ſaid the Devil forſakes the Witch when under the cuſtody of the Law: this moſt manifeſtly appears by their declaiming againſt a little Weezle-faced Sailer, who for writing and diſperſing Pamphlets againſt the Captain and his honeſt Sailers, was Ad<g ref="char:EOLhyphen"/>judged
+<pb n="3" facs="tcp:50657:2"/>to ſtand an Hour with his Head looking through a Loophole of the Ship, and to pay the Captain 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> And to eauſe him the better to remember his follies, his Papers were Burned before his face, by the hands of the Ships Executioner; yet though according to his own Prophecy, he had thouſands to ſtand by him, and rejoyced extremely when he was diſcharged of his Wooden-Ruff; yet whooping and hallowing coſts nothing, no Money is yet allowed for the diſcharge of this ſufferer in the Cauſe; neither can I hear, though the Elephantine Agent has given a <hi>Manifeſto</hi> of his large Sufferings in the Cauſe, that any of the Ships-Crew has yet preſented his Lady with ſo much as a Silver Bodkin towards repara<g ref="char:EOLhyphen"/>tion: Theſe Whiſtlers pleaſe the Faction, whilſt they ſerve their turn, but when that's over, or they ruined, then farewel. This is evident in a late Example of one, that really was a <hi>Mahometan,</hi> pretending to know of great contrivances againſt the Captain; ſuch were his Diſcoveries to be, the like was never heard on; this Doughty piece is greatly cri<g ref="char:EOLhyphen"/>ed up; the <hi>Bethelians</hi> addreſſing the Captain daily for a Pardon for this Squire, that would unravel that Clew that we have been laboriouſly endeavouring theſe years paſt: Oh here was diſcourſe enough for the <hi>Playerites,</hi> the <hi>Jenkites</hi> and <hi>Slomanites,</hi> our Coffee-rooms were big Aboard, expecting the <hi>Mountanous</hi> product of his fertile Invention; never was Inchan<g ref="char:EOLhyphen"/>treſs hugged by Old Nick more than this man was careſſed by theſe State-Pedlers: But the Captain grows Old, and having had ſeveral Shams put upon him, would grant ſuch a Caitiff no Pardon, that by a moſt pernicious Libel had endeavoured to take away his deſi<g ref="char:EOLhyphen"/>red Life and Government. So much was his Cauſe eſpouſed by theſe <hi>Partyzans,</hi> that would the diſtributers of Juſtice in the Ship have admitted of it, they would have impeded the na<g ref="char:EOLhyphen"/>tural courſe of our Laws; but the ſlip of the Law running at him, Juſtice ſeiſed him, and by a deſerved Death made ſome ſatisfaction to that Goodneſs he had offended. No ſooner did this Fate overtake him, but his old acquaintance, that admired him, cried out upon him, as the ve<g ref="char:EOLhyphen"/>rieſt Villain that ever breathed; ſuch a <hi>Metamorphoſis</hi> is not uſual: before he was a perſon of indubitable ſincerity, but now not to be truſted, not a word to be believed that he ſays: 'Tis to be feared he told Tales, and after his Death ſome Relative might accuſe ſome of the other Party, that's the difference, no credit to be given to ſuch a Heretick; ſo near do the Maxims of the <hi>Bethelians</hi> and <hi>Mahometans</hi> hang together. But much more to the amazement of all men in the Ship, ſome <hi>Mahometan</hi> Witneſſes, whoſe breath has ſlain ſome of the Ships-Crew they Sware againſt, and their Teſtimony reputed then to be as Valid as the beſt <hi>Chriſtians,</hi> by vertue of which one of no mean Rank in our Ship loſt his Head; yet when they came to Swear, and that (in conjunction with ſome <hi>Chriſtian</hi> Witneſſes) againſt a Pragmatick <hi>JOYNER,</hi> that uſed to Wainſcot Cabbins in our Ship, and ſo had the opportunity to villifie the Captain and his Conduct, and invectively to calumniate his Ad<g ref="char:EOLhyphen"/>miniſtrations, for which many of the honeſt Sailers were extremely angry with him; but the <hi>Jenkes</hi>-men at their ſmoaky Rendezvous backed him on, until at laſt he was Puppy-ſnatcht, and put under the Hatches, in order to a Trial: but when his Caſe, which was too wicked to be mentioned, came before the Jurats of the Great Cabbin, though Five Witneſſes Sware pat againſt him, (for Reſervations beſt known to themſelves;) they made an <hi>Ignoramus</hi> of the Knave, to the amazement and wonder of all the honeſt s<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ers. For theſe Witneſſes, like Dragons, devoured the <hi>Mahometans,</hi> but their Evidence is not proof againſt a Traiterous Railing <hi>Shimei:</hi> But 'tis to be hoped that the Jurats of a Leſſer Cabbin will give this <hi>Rabſhekah</hi> the Reward of his Wickedneſs. Since which a Broken-Sailer diſguſt<g ref="char:EOLhyphen"/>ing his natural imployment, which was to fit the Ships-Crew with Rugs and Blankets, obſer<g ref="char:EOLhyphen"/>ving theſe Diviſions, muſt needs be a Solicitor in the Great Cabbin, being covetous of be<g ref="char:EOLhyphen"/>ing like his Maſter, (who loves to fiſh in troubled waters) his Tongue being too long for his Mouth, the Captain and his Council have found Cauſe ſufficient to clap him alſo under the Hatches: And though they were formerly the Right-hand-men of the <hi>Bethelites</hi> and <hi>Jenkites,</hi> yet now the beſt Livery they give theſe Brethren in Iniquity is, they were Idle Prating Raſcals, and not to be owned by ſober Seamen: Thus have I ſeen a Whore wipe off her ſpots from her face when ſhe pleaſeth.</p>
+            <p>Thus ſtand things at preſent; but I muſt not omit to tell you, that theſe Triflers in Po<g ref="char:EOLhyphen"/>licy do not forget to amuſe the Sailers, by telling them now the Council of Officers is diſcharged, the Captain intends to Rule Arbitrarily, to Inſlave the Ships-Company, to Govern uncontroulably, as 'tis ſaid the <hi>Algerine</hi>-Captain doth his Veſſel. But as ſoon as ever the Captain underſtood, that the <hi>Jenkes</hi>-men had poyſoned his honeſt Sailers, with apprehenſions ſo remote from his thoughts, he immediately iſſues out his Royal Declara<g ref="char:EOLhyphen"/>tion, giving Ample ſatisfaction to all the Ships-Company, that the Laws of the Ship ſhall be the Square of all his Actions; and as he will not do Illegal things himſelf, ſo will he not
+<pb n="4" facs="tcp:50657:3"/>ſuffer it in his Council of Officers, nor in no ſingle Officer whatſover: Theſe condeſcen<g ref="char:EOLhyphen"/>ſions of the Captain met with general Applauſe and acceptation from all the Sailers: Every Cabbin in the Ship have moſt humbly Addreſſed the Captain to accept of their moſt un<g ref="char:EOLhyphen"/>feigned Thanks for this his moſt Gracious Promiſe, eſpecially that he has aſſured them he will often call his Council of Officers. This unanimous acknowledgement of the <hi>Chriſtians</hi> has dampt the <hi>Mahometans,</hi> confounded the <hi>Bethelites,</hi> diſordered the <hi>Jenkes</hi>-men, to ſee, that Maugre all their Whiſpers and Invectives, all the lying Pamphlets they could diſperſe, yet the Captain remains Great in the Hearts of the <hi>Chriſtians:</hi> this puts theſe Buſie-bodies upon trying their Strength once more, by endeavouring to ſet up Petitions, to Dun the Captain for that which he has already moſt ſolemnly Promiſed, <hi>viz.</hi> to call his Council of Officers, which when they meet, I hope, they will with one mind, joyn to curb the grow<g ref="char:EOLhyphen"/>ing of <hi>Mahometaniſm,</hi> and ſtop the Madneſs of thoſe Spirits, that dare to Malign, either the Captain or his Government. When other things occur they ſhall be imparted to you.</p>
+            <closer>
+               <signed>J. S.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Joſeph Hindmarſh,</hi> at the Black Bull in <hi>Cornhill,</hi> near the Royal Exchange, 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
